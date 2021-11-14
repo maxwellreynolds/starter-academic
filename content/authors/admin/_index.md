@@ -14,7 +14,7 @@ organizations:
   url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Alzheimer's Disease, neuroimaging, bayesian statistics, and causal inference.
+bio: My research interests include Alzheimer's Disease, neuroimaging, Bayesian statistics, and causal inference.
 
 # Interests to show in About widget
 interests:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:maxreynolds55@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/maxreynolds55
@@ -71,8 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! My name is Max Reynolds. I am a PhD student at the University of Pittsburgh in the department of Biomedical Informatics. I work in Dr. Kayhan Batmanghelich's lab on problems related to Alzheimer's disease and neuroimaging with an emphasis on causal inference and Bayesian statistical methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before starting my PhD I worked as a software engineer for a startup medical device company called Freespira where I was leading Salesforce Health Cloud development and various other projects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Maxwell_Reynolds.pdf" "newtab" >}}CV{{< /staticref >}}.
