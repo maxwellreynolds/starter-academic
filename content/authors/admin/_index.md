@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biomedical Informatice
+  - course: PhD in Biomedical Informatics
     institution: University of Pittsburgh
     year: Current
   - course: BS in Applied Computer Science
