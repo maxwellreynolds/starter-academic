@@ -20,7 +20,7 @@ bio: My research interests include Alzheimer's Disease, neuroimaging, Bayesian s
 interests:
 - Alzheimer's Disease
 - Neuroimaging
-- Causal Inference
+- Deep Learning
 - Bayesian Statistics
 
 # Education to show in About widget
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! My name is Max Reynolds. I am a PhD student at the University of Pittsburgh in the department of Biomedical Informatics. I work in Dr. Kayhan Batmanghelich's lab on problems related to Alzheimer's disease and neuroimaging with an emphasis on causal inference and Bayesian statistical methods.
+Welcome! My name is Max Reynolds. I am a PhD student at the University of Pittsburgh in the department of Biomedical Informatics. I work in Dr. Kayhan Batmanghelich's lab on problems related to Alzheimer's disease and neuroimaging with an emphasis on deep learning and Bayesian statistical methods.
 
 Before starting my PhD I worked as a software engineer for a startup medical device company called Freespira where I was leading Salesforce Health Cloud development and various other projects.
 
